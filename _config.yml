@@ -93,3 +93,6 @@ links_title: Links
 # links
 links:
 MacTalk: http://macshuo.com/
+
+plugins:
+- hexo-generator-cname
